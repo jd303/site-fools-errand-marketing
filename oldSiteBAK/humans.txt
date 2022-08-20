@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Joel Dawson -- <Website Designer & Developer, 3D Artist, Game Designer
+	Ned Lindsay -- Technical Director, Lead Programmer
+	Martin De Mont Forte -- Visual Artist, Illustration
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

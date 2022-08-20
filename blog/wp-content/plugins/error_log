@@ -1,0 +1,1 @@
+[24-Sep-2017 12:30:27 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home1/joeldaws/public_html/foolserrandgame/blog/wp-content/plugins/hello.php on line 60
